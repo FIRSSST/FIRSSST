@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firssst&layout=compact&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=firssst&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+<img src="https://avatars.githubusercontent.com/u/78461888?s=400&u=206b5d167f733b3d0d91153845c6f681898aa365&v=4" alt="java" width="140" height="140"/>
+
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
